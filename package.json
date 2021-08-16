@@ -1,0 +1,20 @@
+{
+  "name": "brackets_javaScript",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "pdfkit": "^0.11.0",
+  "dependencies": {
+    "pdfkit": "^0.12.1"
+  },
+  "bin": {
+    "rp": "main.js"
+  },
+  "devDependencies": {},
+  "description": ""
+}
